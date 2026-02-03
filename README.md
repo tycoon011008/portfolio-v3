@@ -1,5 +1,5 @@
 
-# [<img src="readme-assets/logo.png"> React Portfolio](https://ryanbalieiro.github.io/react-portfolio-template/) by Ryan Collins
+# [<img src="readme-assets/logo.png"> React Portfolio](https://ryancollins.github.io/react-portfolio-template/) by Ryan Collins
 
 A sleek, futuristic portfolio template for developers – built with **React** and **Bootstrap 5**.
 
@@ -12,14 +12,12 @@ Key features:
 - Uses **Vite** for packaging.
 - Emails with **EmailJS** - no backend needed!
 
-## [Live Preview](https://ryanbalieiro.github.io/react-portfolio-template/)
+## [Live Preview](https://ryancollins.github.io/react-portfolio-template/)
 
-Check out the live version of the template deployed **[here on GitHub Pages](https://ryanbalieiro.github.io/react-portfolio-template/)**.
+Check out the live version of the template deployed **[here on GitHub Pages](https://ryancollins.github.io/react-portfolio-template/)**.
 
 ### 1. Base layout
 The layout uses a fixed central view with a left sidebar, adjusting perfectly across various monitor resolutions, from 4:3 to ultra-wide.
-
-![alt tag1](readme-assets/demo.png)
 
 ### 2. Desktop Screenshots
 The main view transitions smoothly when a new page is selected from the sidebar, giving a page-flipping effect. The sidebar is also toggleable, allowing the content area to expand for a larger viewing space.
@@ -33,7 +31,7 @@ On mobile, the layout groups the portfolio sections into categories and transfor
 
 1. Clone the repo:
 ```
-git clone https://github.com/ryanbalieiro/react-portfolio-template
+git clone https://github.com/ryancollins/react-portfolio-template
 ```
 
 2. Go to the root directory of the project and install all dependencies with npm:
@@ -244,7 +242,7 @@ export default defineConfig({
 })
 ```
 
-In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://ryanbalieiro.github.io/react-portfolio-template/`, the correct base directory to set is `/react-portfolio-template/`.
+In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://ryancollins.github.io/react-portfolio-template/`, the correct base directory to set is `/react-portfolio-template/`.
 
 If you're deploying to Netlify or your own custom domain where your website is located at the root, you can leave the `base` setting as `'/'`.
 
@@ -258,7 +256,7 @@ This command triggers a series of processes that package your code, assets, and 
 
 ## About
 
-This template was created by and is maintained by **[Ryan Balieiro](https://ryanbalieiro.com/)**.
+This template was created by and is maintained by **[Ryan Collins](https://ryancollins.com/)**.
 
 It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Mark Otto and Jacob Thorton.
 

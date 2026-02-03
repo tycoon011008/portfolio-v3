@@ -1,9 +1,7 @@
 
-# [<img src="readme-assets/logo.png"> React Portfolio](https://ryanbalieiro.github.io/react-portfolio-template/) by Ryan Balieiro
+# [<img src="readme-assets/logo.png"> React Portfolio](https://ryanbalieiro.github.io/react-portfolio-template/) by Ryan Collins
 
 A sleek, futuristic portfolio template for developers – built with **React** and **Bootstrap 5**.
-
-![alt tag1](readme-assets/promo.png)
 
 Key features:
 - Lightweight and fully responsive.
@@ -26,12 +24,10 @@ The layout uses a fixed central view with a left sidebar, adjusting perfectly ac
 ### 2. Desktop Screenshots
 The main view transitions smoothly when a new page is selected from the sidebar, giving a page-flipping effect. The sidebar is also toggleable, allowing the content area to expand for a larger viewing space.
 
-![alt tag1](readme-assets/desktop.png)
 
 ### 3. Mobile Screenshots
 On mobile, the layout groups the portfolio sections into categories and transforms into a tabbed interface with a bottom navigation.
 
-![alt tag1](readme-assets/mobile.png)
 
 ## Installation
 

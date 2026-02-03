@@ -14,7 +14,6 @@ import ArticleInfoBlock from "/src/components/articles/ArticleInfoBlock.jsx"
 import ArticleList from "/src/components/articles/ArticleList.jsx"
 import ArticlePortfolio from "/src/components/articles/ArticlePortfolio.jsx"
 import ArticleServices from "/src/components/articles/ArticleServices.jsx"
-import ArticleTestimonials from "/src/components/articles/ArticleTestimonials.jsx"
 import ArticleThread from "/src/components/articles/ArticleThread.jsx"
 import ArticleTimeline from "/src/components/articles/ArticleTimeline.jsx"
 import FullScreenToggleButton from "/src/components/widgets/FullScreenToggleButton"
@@ -39,7 +38,6 @@ const ARTICLES = {
     ArticleList,
     ArticlePortfolio,
     ArticleServices,
-    ArticleTestimonials,
     ArticleThread,
     ArticleTimeline
 }

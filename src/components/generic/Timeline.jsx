@@ -5,7 +5,7 @@ import CircleAvatar from "/src/components/generic/CircleAvatar.jsx"
 import InfoBadge from "/src/components/generic/InfoBadge.jsx"
 import {useLanguage} from "/src/providers/LanguageProvider.jsx"
 import Tags from "/src/components/generic/Tags.jsx"
-import FaIcon from "/src/components/generic/FaIcon.jsx"
+// import FaIcon from "/src/components/generic/FaIcon.jsx"
 
 const utils = useUtils()
 
@@ -56,10 +56,10 @@ function TimelineItem({item}) {
                 <header className={`timeline-content-header mb-3`}>
                     <div className={`timeline-content-header-left`}>
                         <h5 className={`title fw-bold mb-2`} dangerouslySetInnerHTML={{__html: utils.parseJsonText(item.title)}}/>
-                        <div className={`info ms-3 text-muted font-family-subheadings fw-bold text-2`}>
+                        {/* <div className={`info ms-3 text-muted font-family-subheadings fw-bold text-2`}>
                             <FaIcon iconName={'fa-solid fa-building'} className={`me-2`}/>
                             <span className={``} dangerouslySetInnerHTML={{__html: item.info}}/>
-                        </div>
+                        </div> */}
                     </div>
 
                     <div className={`timeline-content-header-right`}>
